@@ -1,0 +1,10 @@
+Buisness Entities for ticket Booking:
+user:
+user_id,name, email,cont.no, pasword
+
+
+train details:
+Train no,Train type ,Start location,Destination ,Arriving time,End time
+
+payment:
+p_id ,payment_status,charges
